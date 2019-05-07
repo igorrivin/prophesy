@@ -1,0 +1,27 @@
+,IB Symbol,Product Description (click link for more details),Symbol,Currency,cpair
+0,ACD,Australian dollar,ACD,CAD,AUD.CAD
+1,AJY,Australian dollar,AJY,JPY,AUD.JPY
+2,AUD,Australian dollar,6A,USD,AUD.USD
+3,CAD,Canadian dollar,6C,USD,CAD.USD
+4,CHF,Swiss franc,6S,USD,CHF.USD
+5,CJY,Canadian dollar,CJY,JPY,CAD.JPY
+7,E7,European Monetary Union Euro,E7,USD,EUR.USD
+8,EAD,European Monetary Union Euro,EAD,AUD,EUR.AUD
+9,ECD,European Monetary Union Euro,ECD,CAD,EUR.CAD
+10,EUR,European Monetary Union Euro,6E,USD,EUR.USD
+11,GBP,British pound,6B,USD,GBP.USD
+12,J7,Japanese yen,J7,USD,JPY.USD
+13,JPY,Japanese yen,6J,USD,JPY.USD
+14,M6A,Australian dollar,M6A,USD,AUD.USD
+15,M6B,British pound,M6B,USD,GBP.USD
+16,M6E,European Monetary Union Euro,M6E,USD,EUR.USD
+17,MCD,Canadian dollar,MCD,USD,CAD.USD
+18,MJY,Japanese yen,MJY,USD,JPY.USD
+20,MSF,Swiss franc,MSF,USD,CHF.USD
+21,NZD,New Zealand dollar,6N,USD,NZD.USD
+22,PJY,British pound,PJY,JPY,GBP.JPY
+23,PSF,British pound,PSF,CHF,GBP.CHF
+24,RF,European Monetary Union Euro,RF,CHF,EUR.CHF
+25,RP,European Monetary Union Euro,RP,GBP,EUR.GBP
+26,RY,European Monetary Union Euro,RY,JPY,EUR.JPY
+27,SJY,Swiss franc,SJY,JPY,CHF.JPY
