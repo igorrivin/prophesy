@@ -1,0 +1,7 @@
+#!/bin/sh
+
+source /home/igor/.profile
+
+conda activate proph
+
+python ./runstrat.py currencies.csv out24.html '50 D' '1 hour' 24 7496 18 --keep 2> logfile

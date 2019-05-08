@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python /home/igor/devel/prophesy/runstrat.py /home/igor/devel/prophesy/currencies.csv /tmp/out24.html '13  D' '15 mins' 24 7496 18 --keep 2> /tmp/logfile
