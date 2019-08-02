@@ -54,11 +54,9 @@ def main(args=None, infile=None, outfile=None, freq=None, portnum=None, clientid
     freq2 = timedict[freq]
     
     
-    print('yay')
     profinit(clientid, socknum=portnum)
     
     thedf = pd.read_csv(infile, index_col=0)
-    print('yay')
     symbols = list(thedf[thedf.columns[0]])
     preddict = dict([(i, theloop(i, hist, freq, freq2, lookahead, args.hflag)) for i in symbols])
     #loopster = looper(hist, freq, freq2, lookahead, args.hflag)
